@@ -59,6 +59,10 @@
     display: none;
 }
 
+.opacity-login {
+    opacity: 0;
+}
+
 .card-body {
     margin: 10%;
 }
