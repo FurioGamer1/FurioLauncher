@@ -4,8 +4,8 @@
     "version": "1.0.2",
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
-    "author": "Luuxis",
-    "url": "http://launcher.selvania.fr",
+    "author": "FurioGamer",
+    "url": "https://livraison.yn.lu/",
     "engines": {
         "node": "16.x.x"
     },
